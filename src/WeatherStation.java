@@ -1,3 +1,11 @@
+/**
+ *
+ * @author Trevor Hartman
+ * @author Logan Portillo
+ *
+ * @since Version 1.0
+ */
+
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 
